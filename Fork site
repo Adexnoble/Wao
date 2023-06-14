@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fork</title>
+  <style>
+    /* Add your custom CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fork</h1>
+  </header>
+  
+  <main>
+    <h1>Welcome to Fork</h1>
+    <p>
+      This is the official website of Fork, the best restaurant in town. We serve delicious food made from locally sourced ingredients. Come and experience a unique dining experience with us!
+    </p>
+    <p>
+      Our menu offers a wide variety of dishes, including vegetarian and vegan options. Whether you're looking for a quick bite or a fine dining experience, Fork has something for everyone.
+    </p>
+    <p>
+      Visit us today and taste the difference! We are open from Monday to Saturday, from 11:00 AM to 10:00 PM.
+    </p>
+  </main>
+</body>
+</html>
